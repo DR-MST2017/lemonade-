@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lemonade app
 ==================================
 
@@ -26,3 +27,6 @@ Getting Started
 1. Download the starter code
 2. Open the project in Android Studio
 3. Complete the project in accordance with the app requirements
+=======
+# lemonade-
+>>>>>>> 6c2cf210e07f8cbe9de9cf5fd0ad7f5a7d5e842e
